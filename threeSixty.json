@@ -1,0 +1,57 @@
+{
+  "version": "3.111.36326.0",
+  "course_id": "6EZ3Qvcs2Ea",
+  "title": "Making quiz frfrfrfr - Kamal Najmi",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5eeCvzB5rOc",
+      "title": "Halaman Masuk",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5gIVzpCMJxQ",
+      "title": "Halaman Menu",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "66Dlgg2oY2w",
+      "title": "Halaman Kuiz",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ydsMGWq6ma",
+      "title": "Halaman Kuiz",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "68ISQk5Q9At",
+      "title": "1. The main purpose of interactive multimedia in education is to:",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6TKMfKJGG09",
+      "title": "2. Which software can be used to create multimedia presentations?",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6iHMjNp8JTo",
+      "title": "Results Slide",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
